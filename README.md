@@ -19,14 +19,14 @@
 - **LocalStorage** – Save user cart & shopkeeper data temporarily  
 
 ## Project Structure  
-/store-sync/
-│── index.html          → Homepage
-│── shopkeeper.html     → Shopkeeper Dashboard
-│── products.html       → Product Listings
-│── wishlist.html       → Wishlist & Demand Tracking
-│── cart.html           → Shopping Cart
-│── styles/
-│   ├── main.css        → Main styling file
-│── scripts/
-│   ├── app.js          → Main JavaScript file
-│── assets/             → Images & icons
+**/store-sync/**
+**│── index.html          → Homepage**
+**│── shopkeeper.html     → Shopkeeper Dashboard**
+**│── products.html       → Product Listings**
+**│── wishlist.html       → Wishlist & Demand Tracking**
+**│── cart.html           → Shopping Cart**
+**│── styles/**
+**│   ├── main.css        → Main styling file**
+**│── scripts/**
+**│   ├── app.js          → Main JavaScript file**
+**│── assets/             → Images & icons**
